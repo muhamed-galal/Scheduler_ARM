@@ -1,2 +1,2 @@
 # Scheduler_ARM
-Implemented basic scheduler on ARM Based STM32F401cc
+Implemented Runnables Scheduler on ARM Based stm32f4xx
